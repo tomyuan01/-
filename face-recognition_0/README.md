@@ -1,7 +1,7 @@
 來源:https://github.com/erhwenkuo/face-recognition
 
 
-#Face recognition using MTCNN and FaceNet# 人臉辨識 (face-recognition)
+# Face recognition using MTCNN and FaceNet# 人臉辨識 (face-recognition)
 這個專案主要是用來幫助學習如何使用mtcnn與Google's facenet來設計一個簡單易用的人臉辨識系統。
 
 ## 參考
