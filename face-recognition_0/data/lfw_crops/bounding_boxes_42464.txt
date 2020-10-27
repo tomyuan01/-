@@ -1,0 +1,25 @@
+/home/lab513/face-recognition/data/lfw_crops/group/group_006.png
+/home/lab513/face-recognition/data/lfw_crops/group/group_008.png
+/home/lab513/face-recognition/data/lfw_crops/tomyuan/tomyuan.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_018.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_016.png 724 344 1823 1439
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_009.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_020.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_008.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_021.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_011.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_001.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_013.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_007.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_005.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_002.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_003.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_014.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_004.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_012.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_015.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_010.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_017.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_019.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_006.png
+/home/lab513/face-recognition/data/lfw_crops/yuanhan/yuanhan_022.png
